@@ -1,8 +1,7 @@
-modified: 2023-04-05
+modified: 2023-04-07
 
 1. cook rice
-    1. for 2 portions: 1 cup rice, 2 cups water
-    2. heat in microwave for 14 minutes
+    - eg. [Cook Rice In A Microwave]({filename}/Basics/1970-01-01_Cook Rice In A Microwave.md)
 2. finely chop vegetables
     - cabbage
     - capsicum
