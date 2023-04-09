@@ -1,5 +1,5 @@
 AUTHOR = "Rahul Pai"
-SITENAME = "Rahul Pai Recipes"
+SITENAME = "Dev - Rahul Pai Recipes"
 SITEURL = ""
 
 PATH = "content"
@@ -20,6 +20,7 @@ LINKS = (
     ("Source", "https://github.com/skarfie123/recipes"),
     ("Blog", "https://skarfie123.github.io"),
     ("Rahul Pai Creations", "https://rahulpaicreations.github.io"),
+    ("Hebbars Kitchen", "https://hebbarskitchen.com"),
 )
 
 # Social widget
