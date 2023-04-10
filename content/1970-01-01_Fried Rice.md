@@ -1,7 +1,7 @@
 modified: 2023-04-07
 
 1. cook rice
-    - eg. [Cook Rice In A Microwave]({filename}/Basics/1970-01-01_Cook Rice In A Microwave.md)
+    - eg. [Cook Rice In A Microwave]({filename}/Basics/1970-01-02_Cook Rice In A Microwave.md)
 2. finely chop vegetables
     - cabbage
     - capsicum
