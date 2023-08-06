@@ -12,6 +12,7 @@
     - 1/2 spoon chilli powder
     - 1/4 spoon haldi (turmeric powder)
     - 1/4 spoon garam masala
+    - 1 spoon dhaniya jeera powder (coriander and cumin seeds)
 8. drain and blend spinach for 10 seconds
     - note, you can keep the water for cooking another dish, because it will have dissolved a lot of the nutrients from the spinach
 9. when fried, add spinach
