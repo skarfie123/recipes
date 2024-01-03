@@ -18,7 +18,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Source", "https://github.com/skarfie123/recipes"),
-    ("Blog", "https://skarfie123.github.io"),
+    ("Blog", "https://rahulpai.co.uk"),
     ("Rahul Pai Creations", "https://rahulpaicreations.github.io"),
     ("Hebbars Kitchen", "https://hebbarskitchen.com"),
 )
