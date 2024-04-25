@@ -1,3 +1,5 @@
+modified: 2024-04-25
+
 1. in a wok heat oil
 2. add
     - 3-4 pieces of cloves
@@ -6,7 +8,7 @@
     - 2 bay leaves
     - 1 large onion chopped
     - 2 green chillies
-3. after onion is cooked a bit, add
+3. after onion is cooked a bit, add, and fry for a few minutes
     - handful of crushed/chopped mint leaves
     - 1/2 cup grean peas
     - 1/4 spoon haldi (turmeric powder)
@@ -14,3 +16,7 @@
 4. wash 2 cups of rice, then add with 4 cups of water
 5. add 2 spoons salt
 6. transfer into rice cooker and leave to cook
+
+## Palak Pulao
+
+Instead of mint leaves and green peas, add a bowlful of chopped spinach.
