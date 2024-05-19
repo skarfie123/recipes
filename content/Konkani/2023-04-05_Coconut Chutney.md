@@ -1,3 +1,5 @@
+modified: 2024-05-19
+
 1. add
     - 1.5 cup desiccated coconut
     - 1 piece tamarind (~3cm²)
@@ -8,7 +10,7 @@
 
 # Variations
 
-There are many variations that simply involve one or more of the following ingredients before blending:
+There are many variations that simply involve one or more of the following ingredients:
 
-- coriander
-- 1 piece ginger
+- coriander, when almost blended
+- 1 piece ginger, before blending
